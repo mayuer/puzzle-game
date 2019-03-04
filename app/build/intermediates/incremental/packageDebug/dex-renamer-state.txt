@@ -1,0 +1,7 @@
+#Wed Jun 14 17:09:19 CST 2017
+base.0=/home/moon/StudioProjects/day03_zgq_pintu/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_05f4f975a0325cbcdf40d40654d9e8dfee4ac19a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/moon/StudioProjects/day03_zgq_pintu/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a2e958d80f8488f2d3dd10d67bf1a9b3ebee1bd3/classes.dex
+base.1=/home/moon/StudioProjects/day03_zgq_pintu/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a2e958d80f8488f2d3dd10d67bf1a9b3ebee1bd3
+file.0=/home/moon/StudioProjects/day03_zgq_pintu/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_05f4f975a0325cbcdf40d40654d9e8dfee4ac19a/classes.dex

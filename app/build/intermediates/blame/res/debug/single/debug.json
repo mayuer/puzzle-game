@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "D:\\Android Project\\day03_zgq_pintu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Android Project\\day03_zgq_pintu\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android Project\\day03_zgq_pintu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_house_01x02.bmp.flat",
+        "source": "D:\\Android Project\\day03_zgq_pintu\\app\\src\\main\\res\\drawable-hdpi\\img_house_01x02.bmp"
+    },
+    {
+        "merged": "D:\\Android Project\\day03_zgq_pintu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_house_00x02.bmp.flat",
+        "source": "D:\\Android Project\\day03_zgq_pintu\\app\\src\\main\\res\\drawable-hdpi\\img_house_00x02.bmp"
+    },
+    {
+        "merged": "D:\\Android Project\\day03_zgq_pintu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_house_01x01.bmp.flat",
+        "source": "D:\\Android Project\\day03_zgq_pintu\\app\\src\\main\\res\\drawable-hdpi\\img_house_01x01.bmp"
+    },
+    {
+        "merged": "D:\\Android Project\\day03_zgq_pintu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_house_02x01.bmp.flat",
+        "source": "D:\\Android Project\\day03_zgq_pintu\\app\\src\\main\\res\\drawable-hdpi\\img_house_02x01.bmp"
+    },
+    {
+        "merged": "D:\\Android Project\\day03_zgq_pintu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_house_00x01.bmp.flat",
+        "source": "D:\\Android Project\\day03_zgq_pintu\\app\\src\\main\\res\\drawable-hdpi\\img_house_00x01.bmp"
+    },
+    {
+        "merged": "D:\\Android Project\\day03_zgq_pintu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_house_02x02.bmp.flat",
+        "source": "D:\\Android Project\\day03_zgq_pintu\\app\\src\\main\\res\\drawable-hdpi\\img_house_02x02.bmp"
+    },
+    {
+        "merged": "D:\\Android Project\\day03_zgq_pintu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_house.bmp.flat",
+        "source": "D:\\Android Project\\day03_zgq_pintu\\app\\src\\main\\res\\drawable-hdpi\\house.bmp"
+    },
+    {
+        "merged": "D:\\Android Project\\day03_zgq_pintu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_house_01x00.bmp.flat",
+        "source": "D:\\Android Project\\day03_zgq_pintu\\app\\src\\main\\res\\drawable-hdpi\\img_house_01x00.bmp"
+    },
+    {
+        "merged": "D:\\Android Project\\day03_zgq_pintu\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\Android Project\\day03_zgq_pintu\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Android Project\\day03_zgq_pintu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android Project\\day03_zgq_pintu\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android Project\\day03_zgq_pintu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_house_00x00.bmp.flat",
+        "source": "D:\\Android Project\\day03_zgq_pintu\\app\\src\\main\\res\\drawable-hdpi\\img_house_00x00.bmp"
+    },
+    {
+        "merged": "D:\\Android Project\\day03_zgq_pintu\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Android Project\\day03_zgq_pintu\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android Project\\day03_zgq_pintu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_house_02x00.bmp.flat",
+        "source": "D:\\Android Project\\day03_zgq_pintu\\app\\src\\main\\res\\drawable-hdpi\\img_house_02x00.bmp"
+    },
+    {
+        "merged": "D:\\Android Project\\day03_zgq_pintu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android Project\\day03_zgq_pintu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]

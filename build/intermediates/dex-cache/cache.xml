@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/moon/StudioProjects/day03_zgq_pintu/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6dcea259889a5fee1de0a66cc77bb7905db4dd49">
+        <dex dex="/home/moon/StudioProjects/day03_zgq_pintu/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_05f4f975a0325cbcdf40d40654d9e8dfee4ac19a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/moon/StudioProjects/day03_zgq_pintu/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/moon/StudioProjects/day03_zgq_pintu/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a2e958d80f8488f2d3dd10d67bf1a9b3ebee1bd3/classes.dex" />
+    </item>
+
+</items>
